@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "jwts.signKey",
+      "type": "java.lang.String",
+      "description": "Description for jwts.signKey."
+    }
+  ]
+}
