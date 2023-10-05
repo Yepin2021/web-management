@@ -1,0 +1,13 @@
+tengxunyun:
+  cos:
+<<<<<<< HEAD
+    accessKey: 
+    secretKey: 
+    region: ap-guangzhou
+    bucketName: yepin-1306730331
+=======
+    accessKey: AKIDJVTDvPgjY8TZR5Zrw2wfBVcWNIBtQm0z
+    secretKey: pQGtIUTGo8EBuPgiW7ZjhRzLVTFqHYdT
+    region: ap-guangzhou
+    bucketName: yepin-1306730331
+>>>>>>> 376ab2e (0.0)

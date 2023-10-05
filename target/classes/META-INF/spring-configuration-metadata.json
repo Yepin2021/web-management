@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "tengxunyun.cos",
+      "type": "com.itheima.utils.CosProperties",
+      "sourceType": "com.itheima.utils.CosProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwts.signKey",
+      "type": "java.lang.String",
+      "description": "Description for jwts.signKey."
+    },
+    {
+      "name": "tengxunyun.cos.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.utils.CosProperties"
+    },
+    {
+      "name": "tengxunyun.cos.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.utils.CosProperties"
+    },
+    {
+      "name": "tengxunyun.cos.region",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.utils.CosProperties"
+    },
+    {
+      "name": "tengxunyun.cos.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.utils.CosProperties"
+    }
+  ],
+  "hints": []
+}
